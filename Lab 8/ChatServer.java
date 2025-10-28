@@ -19,3 +19,8 @@ public class ChatServer {
         }
     }
 }
+
+/* - Run ChatServer first — it will wait for a connection.
+- Then run ChatClient — type messages and see them appear on the server.
+- Type exit in the client to disconnect.
+ */
